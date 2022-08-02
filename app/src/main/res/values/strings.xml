@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MAP</string>
+    <string name="welcome">Welcome to UTAMU Login Page</string>
 </resources>

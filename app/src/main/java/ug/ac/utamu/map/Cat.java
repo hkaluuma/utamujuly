@@ -8,5 +8,9 @@ public class Cat {
     String pyshicalAppearance;
     /* Multiline comment */
 
+    //Method sample
+    public void Cat_Walk(){
+        String walk = "Cat walking . . . ";
+    }
 
 }
